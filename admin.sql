@@ -9,7 +9,6 @@
 DROP TABLE IF EXISTS `admin`;
 CREATE TABLE IF NOT EXISTS `admin` (
   `1` int(100) NOT NULL,
-  `sactor` varchar(300) NOT NULL,
   `responsibility` varchar(300) NOT NULL,
   `sector` varchar(300) NOT NULL,
   `activities` varchar(300) NOT NULL,
